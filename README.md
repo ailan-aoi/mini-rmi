@@ -10,8 +10,8 @@
 - `RmiClient#getProxy`：按接口生成代理
 - `INode` / `INodeSelector`：选择要连的服务节点
 
-源码在 `easyRmi/src`，包名 `com.mec.mec_rmi`。目录是当时的 Eclipse 工程，没有 Maven 或 Gradle。
+源码在 `mini-rmi/src`，包名 `com.mec.mec_rmi`。目录是当时的 Eclipse 工程，没有 Maven 或 Gradle。
 
 ## 状态
 
-学习代码，源码按最初上传的样子保留。仓库曾用名 `easyRmi`，旧地址会重定向到这里。
+学习代码，Java 包名和实现按最初上传的样子保留。仓库曾用名 `easyRmi`，旧地址会重定向到这里。
